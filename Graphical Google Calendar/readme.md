@@ -4,4 +4,5 @@ guicalendarc.py displays the data in a tkinter GUI
 Known issues:
 - No text wrapping for large events in graphicalcalendar.py
 - Recurring events only are displayed on the first date they occurred.
+
 End goal is to run these scripts on a lightweight computer attached to a refrigerator.
